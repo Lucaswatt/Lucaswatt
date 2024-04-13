@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Lucaswatt!
-- 👀 I’m interested in backend and fullstack development
-- 🌱 Fairly new to development, currently learning higher-level python and plan to learn other languages in the future
-- 📫 You can contact me through my discord:
-- 🔵 Discord: lucaswatt
+hi :3
+i probably won't do much public stuff here
 
 <!---
 Lucaswatt/Lucaswatt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
